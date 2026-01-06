@@ -164,7 +164,7 @@ app.get('/', (req, res) => {
 <body>
 
 <header>
-  <h1>🚀 NodeJS Product Store</h1>
+  <h1>🚀 Hicode - Demo NodeJS Product Store</h1>
   <p>This application will be automatically deployed using AWS CodePipeline and CodeDeploy.</p>
   <p>Each new version of this application will be deployed automatically using AWS CodePipeline.</p>
   <p><strong>Version 2.0</strong></p>

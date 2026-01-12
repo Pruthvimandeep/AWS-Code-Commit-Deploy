@@ -8,7 +8,7 @@ const products = [
     id: '101',
     name: 'Developer Laptop Pro',
     category: 'Electronics',
-    price: 12345,
+    price: 50000,
     rating: 4.8,
     badge: 'Best Seller',
     desc: 'High-performance laptop optimized for development, DevOps, and cloud workloads.'
@@ -26,7 +26,7 @@ const products = [
     id: '103',
     name: 'Noise Cancelling Headphones',
     category: 'Accessories',
-    price: 12345,
+    price: 10000,
     rating: 4.5,
     badge: 'Trending',
     desc: 'Wireless headphones with active noise cancellation and crystal-clear sound.'

@@ -8,7 +8,7 @@ const products = [
     id: '101',
     name: 'Developer Laptop Pro',
     category: 'Electronics',
-    price: 12345,
+    price: 70000,
     rating: 4.8,
     badge: 'Best Seller',
     desc: 'High-performance laptop optimized for development, DevOps, and cloud workloads.'
